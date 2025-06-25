@@ -1,10 +1,10 @@
 # ==================================
 #!/usr/bin/env python
 # coding: utf-8
-# Telegram: @wus_team
+# Telegram: @binmainehaha
 # Version: 1.0.7
 # Github: https://github.com/wusthanhdieu
-# Description: zLocket Tool Open Source
+# Description: Nguyễn Hoàng Phúc Open Source
 # ==================================
 import sys
 import platform
